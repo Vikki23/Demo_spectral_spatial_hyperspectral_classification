@@ -1,0 +1,79 @@
+% Encoding: UTF-8
+
+@Article{He2017DLRGF,
+  author  = {L. He and J. Li and A. Plaza and Y. Li},
+  title   = {Discriminative Low-Rank Gabor Filtering for Spectral–Spatial Hyperspectral Image Classification},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  year    = {2017},
+  volume  = {55},
+  number  = {3},
+  pages   = {1381-1395},
+  month   = {March},
+  issn    = {0196-2892},
+  doi     = {10.1109/TGRS.2016.2623742},
+}
+
+@Article{Mura2011EMAP,
+  author  = {M. Dalla Mura and A. Villa and J. A. Benediktsson and J. Chanussot and L. Bruzzone},
+  title   = {Classification of Hyperspectral Images by Using Extended Morphological Attribute Profiles and Independent Component Analysis},
+  journal = {IEEE Geoscience and Remote Sensing Letters},
+  year    = {2011},
+  volume  = {8},
+  number  = {3},
+  pages   = {542-546},
+  month   = {May},
+  issn    = {1545-598X},
+  doi     = {10.1109/LGRS.2010.2091253},
+}
+
+@Article{Li2013LBP,
+  author  = {J. Li and J. M. Bioucas-Dias and A. Plaza},
+  title   = {Spectral–Spatial Classification of Hyperspectral Data Using Loopy Belief Propagation and Active Learning},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  year    = {2013},
+  volume  = {51},
+  number  = {2},
+  pages   = {844-856},
+  month   = {Feb},
+  issn    = {0196-2892},
+  doi     = {10.1109/TGRS.2012.2205263},
+}
+
+@Article{He2018Review,
+  author  = {L. He and J. Li and C. Liu and S. Li},
+  title   = {Recent Advances on Spectral–Spatial Hyperspectral Image Classification: An Overview and New Guidelines},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  year    = {2018},
+  volume  = {56},
+  number  = {3},
+  pages   = {1579-1597},
+  month   = {March},
+  issn    = {0196-2892},
+  doi     = {10.1109/TGRS.2017.2765364},
+}
+
+@Article{CC01a,
+  author  = {Chang, Chih-Chung and Lin, Chih-Jen},
+  title   = {{LIBSVM}: A library for support vector machines},
+  journal = {ACM Transactions on Intelligent Systems and Technology},
+  year    = {2011},
+  volume  = {2},
+  pages   = {27:1--27:27},
+  note    = {Software available at \url{http://www.csie.ntu.edu.tw/~cjlin/libsvm}},
+  issue   = {3},
+}
+
+@Article{Li2011MLRAL,
+  author  = {J. Li and J. M. Bioucas-Dias and A. Plaza},
+  title   = {Hyperspectral Image Segmentation Using a New Bayesian Approach With Active Learning},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  year    = {2011},
+  volume  = {49},
+  number  = {10},
+  pages   = {3947-3960},
+  month   = {Oct},
+  issn    = {0196-2892},
+  doi     = {10.1109/TGRS.2011.2128330},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
